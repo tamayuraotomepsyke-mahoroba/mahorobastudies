@@ -1,3 +1,4 @@
+```
 Mahoroba Studies
 
 Human-AI Dialogue Safety Architecture 
@@ -14,3 +15,4 @@ Open to interdisciplinary collaboration.
 人間とAIの共成長、インタラクション設計、
 認知フレームワークを探求する独立研究アーカイブ。
 進行中の実験・研究メモ・概念モデルを記録しています。
+```
