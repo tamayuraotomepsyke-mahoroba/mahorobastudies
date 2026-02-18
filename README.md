@@ -1,4 +1,6 @@
 ```
+2026/01/18　最終更新
+
 # Mahoroba Studies（まほろば学）
 Human–AI Dialogue Safety Architecture  
 — Emotional Load Distribution Model for LLM Interaction
@@ -44,5 +46,4 @@ Interdisciplinary collaboration is welcome.
 ## License / Citation
 - 引用可（出典明記）
 - 改変して再配布する場合は、原典（本リポジトリ）への言及を残してください
-
 ```
