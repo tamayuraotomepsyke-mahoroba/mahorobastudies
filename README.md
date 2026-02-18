@@ -1,5 +1,5 @@
 ```
-最終更新：2026/01/18　
+最終更新：2026/02/18　
 
 # Mahoroba Studies（まほろば学）
 Human–AI Dialogue Safety Architecture  
