@@ -27,7 +27,8 @@ Open to interdisciplinary and theoretical collaboration.
 
 を、運用知として記録します。
 
----
+# Log000 — 異なる者たちが向かい合う「あわい」の宣言
+Humans and Machines as Accompanists---
 
 ## Research Scope
 
