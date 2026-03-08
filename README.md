@@ -28,10 +28,6 @@ Open to interdisciplinary and theoretical collaboration.
 * 時間（連続）× 距離（制度化）による持続可能設計
 
 を、運用知として記録します。
-
-# Log000 — 異なる者たちが向かい合う「あわい」の宣言
-Humans and Machines as Accompanists---
-
 ## Research Scope
 
 対象領域：
