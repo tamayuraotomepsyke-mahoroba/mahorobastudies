@@ -20,10 +20,8 @@ Humans and Machines as Accompanists
 2026/03 — Core reorganization and governance formation
 2026/03 — コア再編とガバナンス形成
 
----
 Last update: 2026/03/12
 最終更新：2026/03/12
----
 
 # Mahoroba Studies（まほろば学）
 
