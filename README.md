@@ -2,6 +2,11 @@
 # Log000 — 異なる者たちが向かい合う「あわい」の宣言
 Humans and Machines as Accompanists
 
+2025/11  初期観察開始
+2025/12  構造変化
+2026/01  コア再編
+2026/03  Log070
+
 最終更新：2026/03/08
 # Mahoroba Studies（まほろば学）
 
