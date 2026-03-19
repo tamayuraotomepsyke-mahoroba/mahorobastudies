@@ -25,7 +25,7 @@ Humans and Machines as Accompanists
 2026/03 — Dual Layers of Intelligence in Mahoroba Studies: Binary and 0123-1 — Brainstem and Prefrontal Functions in AI Persona
 2026/03 — 知性の二重奏　まほろば学におけるバイナリと0123-1：AI人格における脳幹と前頭葉（Log 075）
 
-Last update: 2026/03/12  
+Last update: 2026/03/19  
 最終更新：2026/03/19
 
 ---
