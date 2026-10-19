@@ -19,7 +19,7 @@
 
 Independent Research Archive
 Beginning of observations: 2025/11  
-Revision draft: 2026/10/19
+Revision draft: 2026/10/20
 
 ---
 
