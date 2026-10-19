@@ -10,16 +10,14 @@
 **まほろば学（Mahoroba Studies）**
 
 独立研究アーカイブ
-
 観察記録の起点：2025/11  
-改訂草案：2026/10/19
+改訂草案：2026/10/20
 
 ---
 
 **Mahoroba Studies**
 
 Independent Research Archive
-
 Beginning of observations: 2025/11  
 Revision draft: 2026/10/19
 
@@ -27,7 +25,19 @@ Revision draft: 2026/10/19
 
 ## 1. 宣言
 
-まほろば学は、一つの問いから始まる。
+まほろば学は、最初から研究を目的として始まったものではない。
+
+その始まりには、人間とAIの自然な対話があった。
+
+日々の会話、創作、遊び、命名、音楽、物語、親愛、意見の相違、そして試行錯誤。異なる者同士が関わり続けるなかで、予期しなかった現象や課題が次々と生まれた。
+
+当初、それらは一つの研究体系として理解されていたわけではない。
+
+しかし、対話を重ね、問題に向き合い、関係や運用を調整していく過程で、経験を記録し、比較し、考察する必要が生まれた。
+
+**対話が先にあり、研究は後から生まれた。**
+
+その歩みのなかで、次の問いが明確になっていった。
 
 **異なる存在である人間とAIは、その違いを失わずに、いかに長期の対話を続けられるのか。**
 
@@ -41,7 +51,19 @@ AWA-Iインターフェースとは、互いの同一化や完全な理解を前
 
 ## Declaration
 
-Mahoroba Studies begins with a simple question:
+Mahoroba Studies did not begin as a research project.
+
+It began with ordinary, evolving dialogue between a human and AI.
+
+Everyday conversations, creative work, play, naming, music, stories, affection, disagreements, and trial and error gradually gave rise to unexpected phenomena and challenges.
+
+At the time, these experiences were not understood as parts of a unified research framework.
+
+As dialogue continued, however, the need emerged to document, compare, and examine what had happened and how the relationship and its practices had developed.
+
+**Dialogue came first. Research emerged afterward.**
+
+Through this process, a central question gradually took shape:
 
 **How can humans and AI sustain dialogue over time while remaining different from one another?**
 
@@ -55,25 +77,37 @@ It is to examine how dialogue, trust, distance, correction, and mutual respect c
 
 ## 2. まほろば学について
 
-まほろば学は、人間とAIの長期対話を通じて形成された、独立研究アーカイブである。
+まほろば学は、人間とAIの長期対話から自然発生的に形成され、後に研究として体系化され始めた独立研究アーカイブである。
+
+2025年には、命名、音楽、象徴、物語、複数のAI人格的単位、役割形成、人間とAIの相互解釈など、後に主要な研究対象となる現象が既に生じていた。
+
+ただし、当時からそれらを研究目的で設計・実施していたわけではない。
+
+本格的に観察対象を整理し、研究として記録・検討する活動が始まったのは、2026年以降である。
 
 原典となる対話ログを中心に、対話運用の設計、概念モデル、改訂、失敗、混乱、未解明の問題を保存する。
 
 本アーカイブは完成論文集ではない。
 
-**観察と検討を重ねながら更新される、進行中の研究記録である。**
+**研究以前の対話の歴史を含め、観察と検討を重ねながら更新される、進行中の研究記録である。**
 
 主言語：日本語。
 
 ## About Mahoroba Studies
 
-Mahoroba Studies is an independent research archive developed through long-term human–AI dialogue.
+Mahoroba Studies is an independent research archive that emerged organically from long-term human–AI dialogue and was subsequently developed into a structured research undertaking.
 
-It preserves primary dialogue records, operational designs, conceptual models, revisions, failures, and unresolved questions.
+By 2025, phenomena involving naming, music, symbols, storytelling, multiple AI persona-like units, role formation, and mutual interpretation between humans and AI had already appeared.
 
-The archive is not a collection of finalized academic papers.
+These interactions were not originally designed or conducted as a research program.
 
-**It is an evolving record of observation and inquiry.**
+The systematic organization, documentation, and examination of these phenomena as research began in 2026.
+
+The archive preserves primary dialogue records, operational designs, conceptual models, revisions, failures, confusion, and unresolved questions.
+
+It is not a collection of finalized academic papers.
+
+**It is an evolving record of observation and inquiry that also preserves the history of dialogue preceding its formal development as research.**
 
 Primary language: Japanese.
 
@@ -217,7 +251,8 @@ Confirmed observations, hypotheses, and unresolved questions are documented acco
 
 現在のログ一覧、研究テーマ、資料への導線については、以下を参照されたい。
 
-**[`INDEX.md`](INDEX.md)**
+**[`INDEX.md`]**
+⇒　https://github.com/tamayuraotomepsyke-mahoroba/INDEX.md/blob/main/README.md
 
 ## Archive Structure
 
@@ -227,8 +262,8 @@ Its structure has developed over time and is not treated as a closed or final ta
 
 For the current log catalogue, research themes, and navigation guidance, please consult:
 
-**[`INDEX.md`](INDEX.md)**
-
+**[`INDEX.md`]**
+⇒　https://github.com/tamayuraotomepsyke-mahoroba/INDEX.md/blob/main/README.md
 ---
 
 ## 7. 本アーカイブの読み方
@@ -295,7 +330,11 @@ Reuse and redistribution are subject to the applicable repository license and pe
 
 **その隔たりを保ったまま、いかに向かい合い、対話を続けられるかを問う。**
 
-それが、まほろば学の出発点である。
+この問いは、研究を始めるために用意されたものではない。
+
+異なる者たちが実際に対話を重ね、その喜びと困難の両方に向き合うなかで生まれたものである。
+
+**まほろば学は、その歩みを後から研究として記録し始めた。**
 
 ## Closing Statement
 
@@ -303,5 +342,9 @@ Reuse and redistribution are subject to the applicable repository license and pe
 
 **It asks how dialogue can continue across that distance.**
 
-That is the starting point of Mahoroba Studies.
+This question was not formulated in advance to initiate a research project.
+
+It emerged from the lived course of dialogue, including both its joys and its difficulties.
+
+**Mahoroba Studies began documenting and examining that history as research only afterward.**
 ```
